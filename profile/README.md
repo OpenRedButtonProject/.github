@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](https://raw.githubusercontent.com/OpenRedButtonProject/.github/main/logo.png)
 
 # The Open Red Button Project
 
